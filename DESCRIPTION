@@ -12,7 +12,10 @@ RoxygenNote: 7.2.3
 URL: https://github.com/JieYinStat/testnewnew, https://jieyinstat.github.io/testnewnew/
 BugReports: https://github.com/JieYinStat/testnewnew/issues
 Suggests: 
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
     stringr
+VignetteBuilder: knitr
