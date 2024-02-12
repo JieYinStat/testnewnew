@@ -9,7 +9,7 @@
 #' @export
 #'
 #' @examples
-#' add(1,2)
+#' add(2,3)
 add <- function(a,b) {
   a + b
 }

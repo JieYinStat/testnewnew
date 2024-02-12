@@ -18,5 +18,5 @@ a numer result
 add two numbers.
 }
 \examples{
-add(1,2)
+add(2,3)
 }
