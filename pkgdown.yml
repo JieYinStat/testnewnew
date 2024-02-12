@@ -3,8 +3,5 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   first: first.html
-last_built: 2024-02-12T03:07Z
-urls:
-  reference: https://jieyinstat.github.io/testnewnew/reference
-  article: https://jieyinstat.github.io/testnewnew/articles
+last_built: 2024-02-12T03:42Z
 

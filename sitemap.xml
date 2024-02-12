@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/404.html</loc>
+    <loc>/404.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/LICENSE.html</loc>
+    <loc>/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/articles/first.html</loc>
+    <loc>/articles/first.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/articles/index.html</loc>
+    <loc>/articles/index.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/authors.html</loc>
+    <loc>/authors.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/index.html</loc>
+    <loc>/index.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/reference/add.html</loc>
+    <loc>/reference/add.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/reference/index.html</loc>
+    <loc>/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://jieyinstat.github.io/testnewnew/reference/str_split_one.html</loc>
+    <loc>/reference/str_split_one.html</loc>
   </url>
 </urlset>
